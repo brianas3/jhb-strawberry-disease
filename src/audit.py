@@ -6,8 +6,11 @@ import numpy as np, pandas as pd
 from PIL import Image, ImageFile
 import imagehash
 
-ROOT = "/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset"
-OUT = "/Users/brian/Desktop/2027_Fall/GenAI/project_work/reports"
+_PROJ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.path.abspath(os.environ.get("DATA_DIR", os.path.join(_PROJ, "..", "JHB training dataset")))
+OUT = os.path.join(os.path.abspath(os.environ.get("OUT_DIR", _PROJ)), "reports")
+# paths are written to CSV/JSON as "JHB training dataset/<class>/<file>" (relative, portable)
+_REL = lambda p: "JHB training dataset/" + os.path.relpath(p, ROOT)
 HAM = 6
 os.makedirs(OUT + "/samples", exist_ok=True)
 
@@ -71,18 +74,18 @@ gid = {r: k for k, r in enumerate(sorted(df.group_root.unique()))}
 df["group_id"] = df.group_root.map(gid)
 ncls = df.groupby("group_id").class_id.nunique()
 df["group_n_classes"] = df.group_id.map(ncls)
-df.drop(columns=["group_root"]).to_csv(OUT + "/image_table.csv", index=False)
+df.drop(columns=["group_root"]).assign(path=lambda x: x.path.map(_REL)).to_csv(OUT + "/image_table.csv", index=False)
 
 dg = df[df.group_size > 1].copy()
 dg["exact"] = dg.exact_group >= 0
-dg.sort_values(["group_id", "class_id", "path"])[["group_id", "group_size", "group_n_classes", "class_id", "class_name", "exact", "path"]].to_csv(OUT + "/dup_groups.csv", index=False)
+dg.sort_values(["group_id", "class_id", "path"])[["group_id", "group_size", "group_n_classes", "class_id", "class_name", "exact", "path"]].assign(path=lambda x: x.path.map(_REL)).to_csv(OUT + "/dup_groups.csv", index=False)
 
 # ---- summary ----
 S = {}
 S["skipped_non_image"] = [os.path.relpath(s, ROOT) for s in skipped]
-S["total_images"] = len(df); S["corrupt"] = df[~df.ok].path.tolist()
+S["total_images"] = len(df); S["corrupt"] = df[~df.ok].path.map(_REL).tolist()
 S["ext_counts"] = df.ext.value_counts().to_dict(); S["mode_counts"] = df["mode"].value_counts().to_dict()
-S["animated"] = df[df.anim].path.tolist(); S["ext_mismatch"] = df[df.ext_mismatch].path.tolist()
+S["animated"] = df[df.anim].path.map(_REL).tolist(); S["ext_mismatch"] = df[df.ext_mismatch].path.map(_REL).tolist()
 S["exact_dup_groups"] = int(df[df.exact_group >= 0].exact_group.nunique())
 S["exact_dup_extra_files"] = int((df.exact_group >= 0).sum() - S["exact_dup_groups"])
 S["near_groups"] = int((sizes > 1).sum()); S["images_in_dup_groups"] = int((df.group_size > 1).sum())

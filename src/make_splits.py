@@ -1,6 +1,7 @@
 """Group-level stratified 70/15/15 split (seed 42). Reads reports/image_table.csv from audit.py. Manifest only."""
 import random, pandas as pd
-BASE = "/Users/brian/Desktop/2027_Fall/GenAI/project_work"
+import os
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 df = pd.read_csv(BASE + "/reports/image_table.csv")
 df = df[df.ok].copy()
 rng = random.Random(42)

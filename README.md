@@ -119,6 +119,6 @@ bash run.sh                      # 特徵抽取 + 探針
 RUN_FINETUNE=1 bash run.sh       # 另外跑微調（CPU 約 20+ 分鐘）
 ```
 
-- `manifest.csv` 內的路徑是作者本機的絕對路徑，程式會把 `JHB training dataset/` 之後的部分重新對應到 `DATA_DIR` 下。
+- `manifest.csv` 內的路徑是相對路徑（`JHB training dataset/<類別>/<檔名>`），程式會把 `JHB training dataset/` 之後的部分對應到 `DATA_DIR` 下。`audit.py` 也可用 `DATA_DIR`、`OUT_DIR` 環境變數設定。
 - 裝置自動選擇 cuda 或 cpu。CUDA 路徑尚未測試。
 - 為了縮小 repo，未上傳 `models/feats_*.npy`（可由 `run.sh` 重新產生）與 `models/mnv3_best.pt`（非建議模型），也未上傳 `reports/samples/`、`reports/redteam_grids/`（內含資料集影像縮圖）。

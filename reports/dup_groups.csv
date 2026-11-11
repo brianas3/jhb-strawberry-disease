@@ -1,231 +1,231 @@
 group_id,group_size,group_n_classes,class_id,class_name,exact,path
-494,2,1,11,Leaf Scorch,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/11. Leaf Scorch/kgl_Strawberry___Leaf_scorch_Strawberry___Leaf_scorch_1056.jpg
-494,2,1,11,Leaf Scorch,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/11. Leaf Scorch/kgl_Strawberry___Leaf_scorch_Strawberry___Leaf_scorch_127.jpg
-939,2,1,11,Leaf Scorch,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/11. Leaf Scorch/kgl_Strawberry___Leaf_scorch_Strawberry___Leaf_scorch_443.jpg
-939,2,1,11,Leaf Scorch,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/11. Leaf Scorch/kgl_Strawberry___Leaf_scorch_Strawberry___Leaf_scorch_529.jpg
-1571,2,1,12,Neopestalotiopsis Leaf Spot,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/12. Neopestalotiopsis Leaf Spot/First Report on the Emergence of Neopestalotiopsis rosae as a Severe Economic Threat to Strawberry Production in Germany[v1] _ Preprints.org.png
-1571,2,1,12,Neopestalotiopsis Leaf Spot,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/12. Neopestalotiopsis Leaf Spot/PMC11767745_microorganisms-13-00006-g004.jpg
-1573,2,1,12,Neopestalotiopsis Leaf Spot,True,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/12. Neopestalotiopsis Leaf Spot/Identification of Neopestalotiopsis spp. from Strawberry Leaf, Fruit, and Crown Tissues in North Carolina - PMC.jpg"
-1573,2,1,12,Neopestalotiopsis Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/12. Neopestalotiopsis Leaf Spot/PMC12844628_pathogens-15-00010-g005.jpg
-1661,2,2,13,Rhizopus Fruit Rot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/13. Rhizopus Fruit Rot/Common Strawberry Diseases _ Crop Science US.jpg
-1661,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Common Strawberry Diseases _ Crop Science US-001.jpg
-1662,2,2,13,Rhizopus Fruit Rot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/13. Rhizopus Fruit Rot/Common Strawberry Diseases _ Crop Science US-001.jpg
-1662,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Common Strawberry Diseases _ Crop Science US.jpg
-1692,2,2,1,Fusarium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/1. Fusarium Wilt/Fusarium Wilt _ Strawberry _ Agriculture_ Pest Management Guidelines _ UC Statewide IPM Program (UC IPM).jpg
-1692,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Fusarium Wilt _ Strawberry _ Agriculture_ Pest Management Guidelines _ UC Statewide IPM Program (UC IPM).jpg
-1709,2,2,13,Rhizopus Fruit Rot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/13. Rhizopus Fruit Rot/Non-Botrytis Fruit Rots of Strawberry_ Under-estimated and Under-Researched_ - Progressive Crop Consultant-002.jpg
-1709,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Non-Botrytis Fruit Rots of Strawberry_ Under-estimated and Under-Researched_ - Progressive Crop Consultant.jpg
-1714,2,2,12,Neopestalotiopsis Leaf Spot,True,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/12. Neopestalotiopsis Leaf Spot/Outbreak of leaf spot, fruit rot in Florida strawberry caused by Neopestalotiopsis - Fruit Growers News.jpg"
-1714,2,2,14,Foliar nematode,True,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Outbreak of leaf spot, fruit rot in Florida strawberry caused by Neopestalotiopsis - Fruit Growers News.jpg"
-1727,2,2,12,Neopestalotiopsis Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/12. Neopestalotiopsis Leaf Spot/Strawberry Disease Identification.jpg
-1727,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Strawberry Disease Identification-001.jpg
-1754,2,2,12,Neopestalotiopsis Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/12. Neopestalotiopsis Leaf Spot/Update on Neopestalotiopsis sp. in Ontario field strawberries – ONfruit.jpg
-1754,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Update on Neopestalotiopsis sp. in Ontario field strawberries – ONfruit-001.jpg
-1756,2,2,12,Neopestalotiopsis Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/12. Neopestalotiopsis Leaf Spot/Update on Neopestalotiopsis sp. in Ontario field strawberries – ONfruit-001.jpg
-1756,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Update on Neopestalotiopsis sp. in Ontario field strawberries – ONfruit-003.jpg
-1757,2,2,12,Neopestalotiopsis Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/12. Neopestalotiopsis Leaf Spot/Update on Neopestalotiopsis sp. in Ontario field strawberries – ONfruit-002.jpg
-1757,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Update on Neopestalotiopsis sp. in Ontario field strawberries – ONfruit.jpg
-1780,3,3,12,Neopestalotiopsis Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/12. Neopestalotiopsis Leaf Spot/Field Trials for the control of fungal diseases and nematodes in Strawberries – AgriThority®.jpg
-1780,3,3,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Field Trials for the control of fungal diseases and nematodes in Strawberries – AgriThority®.jpg
-1780,3,3,15,Northern Root-Knot Nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/15. Northern Root-Knot Nematode/Field Trials for the control of fungal diseases and nematodes in Strawberries – AgriThority®.jpg
-1797,2,2,14,Foliar nematode,True,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Nematode on strawberries - how to fight, effective methods of control and prevention of the disease, Digest Imex Agro-001.jpg"
-1797,2,2,15,Northern Root-Knot Nematode,True,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/15. Northern Root-Knot Nematode/Nematode on strawberries - how to fight, effective methods of control and prevention of the disease, Digest Imex Agro.jpg"
-1803,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Nematodes.jpg
-1803,2,2,15,Northern Root-Knot Nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/15. Northern Root-Knot Nematode/Nematodes.jpg
-1807,2,2,14,Foliar nematode,True,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Pests, Diseases, Nematodes, and Weeds Management on Strawberries _ IntechOpen.png"
-1807,2,2,15,Northern Root-Knot Nematode,True,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/15. Northern Root-Knot Nematode/Pests, Diseases, Nematodes, and Weeds Management on Strawberries _ IntechOpen.png"
-1809,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Plant-parasitic nematodes of strawberry in Egypt_ a review _ Bulletin of the National Research Centre _ Springer Nature Link.png
-1809,2,2,15,Northern Root-Knot Nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/15. Northern Root-Knot Nematode/Plant-parasitic nematodes of strawberry in Egypt_ a review _ Bulletin of the National Research Centre _ Springer Nature Link.png
-1813,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Recognizing and Managing Nematode Damage in Strawberries _ Southern Region Small Fruit Consortium-001.jpg
-1813,2,2,15,Northern Root-Knot Nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/15. Northern Root-Knot Nematode/Recognizing and Managing Nematode Damage in Strawberries _ Southern Region Small Fruit Consortium (1).jpg
-1815,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Recognizing and Managing Nematode Damage in Strawberries _ Southern Region Small Fruit Consortium.jpg
-1815,2,2,15,Northern Root-Knot Nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/15. Northern Root-Knot Nematode/Recognizing and Managing Nematode Damage in Strawberries _ Southern Region Small Fruit Consortium.jpg
-1823,2,2,14,Foliar nematode,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Root-Knot Nematode in Strawberry _ Strawberry Center Blog.jpg
-1823,2,2,15,Northern Root-Knot Nematode,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/15. Northern Root-Knot Nematode/Root-Knot Nematode in Strawberry _ Strawberry Center Blog (1).jpg
-1824,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Root-Knot Nematode in Strawberry _ Strawberry Center Blog-002.jpg
-1824,2,2,15,Northern Root-Knot Nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/15. Northern Root-Knot Nematode/Root-Knot Nematode in Strawberry _ Strawberry Center Blog (3).jpg
-1825,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Root-Knot Nematode in Strawberry _ Strawberry Center Blog-003.jpg
-1825,2,2,15,Northern Root-Knot Nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/15. Northern Root-Knot Nematode/Root-Knot Nematode in Strawberry _ Strawberry Center Blog (4).jpg
-1842,2,2,14,Foliar nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/Spotlight_ Strawberry Season is Coming and so Are Nematodes - Specialty Crop Grower.jpg
-1842,2,2,15,Northern Root-Knot Nematode,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/15. Northern Root-Knot Nematode/Spotlight_ Strawberry Season is Coming and so Are Nematodes - Specialty Crop Grower.jpg
-1878,2,2,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold123.jpg
-1878,2,2,14,Foliar nematode,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/List of strawberry diseases - Wikipedia.jpg
-1880,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold102.jpg
-1880,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold126.jpg
-2065,2,2,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold34.jpg
-2065,2,2,14,Foliar nematode,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/14. Foliar nematode/How To Prepare For Strawberry Pathogens - Growing Produce.jpg
-2296,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold106.jpg
-2296,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold73.jpg
-2298,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold125.jpg
-2298,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold75.jpg
-2308,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold42.jpg
-2308,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold84.jpg
-2310,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold149.jpg
-2310,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold86.jpg
-2312,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold53.jpg
-2312,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold88.jpg
-2324,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold55.jpg
-2324,2,1,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold99.jpg
-2388,2,1,4,Powdery mildew,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/4. Powdery mildew/powdery_mildew_fruit2.jpg
-2388,2,1,4,Powdery mildew,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/4. Powdery mildew/powdery_mildew_fruit74.jpg
-2729,2,2,2,Macrophomina Crown Rot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/2. Macrophomina Crown Rot/Crown and Root Issues in Strawberries.jpg
-2729,2,2,5,Phytophthora Crown rot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/Crown and Root Issues in Strawberries-001.jpg
-2731,2,2,2,Macrophomina Crown Rot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/2. Macrophomina Crown Rot/Crown and Root Issues in Strawberries-001.jpg
-2731,2,2,5,Phytophthora Crown rot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/Crown and Root Issues in Strawberries.jpg
-2739,2,2,2,Macrophomina Crown Rot,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/2. Macrophomina Crown Rot/Magnetic resonance imaging shows how infection progresses in strawberry crown _ University of Eastern Finland.jpg
-2739,2,2,5,Phytophthora Crown rot,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/Magnetic resonance imaging shows how infection progresses in strawberry crown _ University of Eastern Finland.jpg
-2740,2,2,2,Macrophomina Crown Rot,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/2. Macrophomina Crown Rot/Magnetic resonance imaging shows how infection progresses in strawberry crown.jpg
-2740,2,2,5,Phytophthora Crown rot,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/Magnetic resonance imaging shows how infection progresses in strawberry crown.jpg
-2745,2,2,5,Phytophthora Crown rot,False,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/Neopestalotiopsis Leaf, Fruit, and Crown Rot of Strawberry _ NC State Extension Publications.jpg"
-2745,2,2,12,Neopestalotiopsis Leaf Spot,False,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/12. Neopestalotiopsis Leaf Spot/Neopestalotiopsis Crown, Leaf and Fruit Disease on Strawberry _ Southern Region Small Fruit Consortium-001.jpg"
-2753,2,1,5,Phytophthora Crown rot,False,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/Mature strawberry with leather rot, caused by Phytophthora cactorum,... _ Download Scientific Diagram.jpg"
-2753,2,1,5,Phytophthora Crown rot,False,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/Phytophthora cactorum - Alchetron, The Free Social Encyclopedia.jpg"
-2760,2,2,2,Macrophomina Crown Rot,False,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/2. Macrophomina Crown Rot/Root and crown rot of strawberry - Prevention, Control and Damage-001.jpg"
-2760,2,2,5,Phytophthora Crown rot,False,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/Root and crown rot of strawberry - Prevention, Control and Damage-002.jpg"
-2761,2,2,2,Macrophomina Crown Rot,True,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/2. Macrophomina Crown Rot/Root and crown rot of strawberry - Prevention, Control and Damage-002.jpg"
-2761,2,2,5,Phytophthora Crown rot,True,"/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/Root and crown rot of strawberry - Prevention, Control and Damage-003.jpg"
-2763,2,1,5,Phytophthora Crown rot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/STRAWBERRY CROWN ROT Phytophthora cactorum SECTION THROUGH INFECTED PLANT SHOWING EXTENSIVE ROT Stock Photo - Alamy (2).jpg
-2763,2,1,5,Phytophthora Crown rot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/STRAWBERRY CROWN ROT Phytophthora cactorum SECTION THROUGH INFECTED PLANT SHOWING EXTENSIVE ROT Stock Photo - Alamy-001.jpg
-2767,2,2,2,Macrophomina Crown Rot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/2. Macrophomina Crown Rot/Strawberry (Fragaria spp.)-Crown Rot _ Pacific Northwest Pest Management Handbooks-001.jpg
-2767,2,2,5,Phytophthora Crown rot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/Strawberry (Fragaria spp.)-Crown Rot _ Pacific Northwest Pest Management Handbooks-001.jpg
-2783,2,2,3,Gray Mold,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/3. Gray Mold/gray_mold59.jpg
-2783,2,2,5,Phytophthora Crown rot,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/台灣農業百科_ 草莓病害-果腐病亦稱果疫病(Fruit rot or leather rot of strawberry)-002.jpg
-2793,2,2,1,Fusarium Wilt,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/1. Fusarium Wilt/Strawberry wilt hi-res stock photography and images - Alamy.jpg
-2793,2,2,6,Verticillium Wilt,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0044.jpg
-2794,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0002.jpg
-2794,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0047.jpg
-2795,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0004.jpg
-2795,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0048.jpg
-2796,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0006.jpg
-2796,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0049.jpg
-2797,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0011.jpg
-2797,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0052.jpg
-2798,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0019.jpg
-2798,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0056.jpg
-2799,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0001.jpg
-2799,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0058.jpg
-2800,3,2,5,Phytophthora Crown rot,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/Strawberry Soilborne Fungal Diseases_ Asymptomatic but Infected.jpg
-2800,3,2,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0003.jpg
-2800,3,2,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0059.jpg
-2801,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0005.jpg
-2801,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0060.jpg
-2802,3,2,1,Fusarium Wilt,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/1. Fusarium Wilt/Strawberry (Fragaria spp.)-Verticillium Wilt _ Pacific Northwest Pest Management Handbooks-001.jpg
-2802,3,2,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0012.jpg
-2802,3,2,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0063.jpg
-2803,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0014.jpg
-2803,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0064.jpg
-2804,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0020.jpg
-2804,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0068.jpg
-2805,4,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0023.jpg
-2805,4,1,6,Verticillium Wilt,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0030.jpg
-2805,4,1,6,Verticillium Wilt,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0069.jpg
-2805,4,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0079.jpg
-2806,3,1,6,Verticillium Wilt,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0010.jpg
-2806,3,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0045.jpg
-2806,3,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0072.jpg
-2807,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0033.jpg
-2807,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0073.jpg
-2808,4,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0009.jpg
-2808,4,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0035.jpg
-2808,4,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0062.jpg
-2808,4,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0074.jpg
-2809,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0036.jpg
-2809,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0075.jpg
-2810,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0031.jpg
-2810,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0076.jpg
-2811,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0037.jpg
-2811,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0077.jpg
-2812,4,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0026.jpg
-2812,4,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0039.jpg
-2812,4,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0071.jpg
-2812,4,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0078.jpg
-2814,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0038.jpg
-2814,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0081.jpg
-2815,4,2,1,Fusarium Wilt,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/1. Fusarium Wilt/Strawberry (Fragaria spp.)-Verticillium Wilt _ Pacific Northwest Pest Management Handbooks.jpg
-2815,4,2,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0040(1).jpg
-2815,4,2,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0040.jpg
-2815,4,2,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0082.jpg
-2816,5,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0007.jpg
-2816,5,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0025.jpg
-2816,5,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0061.jpg
-2816,5,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0070.jpg
-2816,5,1,6,Verticillium Wilt,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0083.jpg
-2817,3,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0008.jpg
-2817,3,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0050.jpg
-2817,3,1,6,Verticillium Wilt,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0084.jpg
-2818,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0046.jpg
-2818,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0085.jpg
-2819,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0041.jpg
-2819,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0086.jpg
-2820,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0029.jpg
-2820,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0087.jpg
-2822,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0034.jpg
-2822,2,1,6,Verticillium Wilt,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/6. Verticillium Wilt/image_0091.jpg
-2830,3,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0035.jpg
-2830,3,1,7,Anthracnose Leaf Spot,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0041.jpg
-2830,3,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0069.jpg
-2831,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0022.jpg
-2831,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0046.jpg
-2832,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0003.jpg
-2832,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0047.jpg
-2833,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0002.jpg
-2833,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0048.jpg
-2834,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0006.jpg
-2834,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0050.jpg
-2835,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0007.jpg
-2835,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0051.jpg
-2836,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0010.jpg
-2836,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0053.jpg
-2837,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0009.jpg
-2837,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0054.jpg
-2838,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0011.jpg
-2838,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0055.jpg
-2839,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0015.jpg
-2839,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0059.jpg
-2840,4,3,2,Macrophomina Crown Rot,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/2. Macrophomina Crown Rot/Crown rot disease detected in Louisiana strawberries.jpg
-2840,4,3,5,Phytophthora Crown rot,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/5. Phytophthora Crown rot/Crown rot found in commercial field _ News _ hammondstar.com.jpg
-2840,4,3,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0016.jpg
-2840,4,3,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0060.jpg
-2841,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0005.jpg
-2841,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0061.jpg
-2842,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0019.jpg
-2842,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0064.jpg
-2843,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0023.jpg
-2843,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0065.jpg
-2844,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0024.jpg
-2844,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0066.jpg
-2845,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0025.jpg
-2845,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0067.jpg
-2846,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0026.jpg
-2846,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0068.jpg
-2847,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0028.jpg
-2847,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0070.jpg
-2848,3,1,7,Anthracnose Leaf Spot,False,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0014.jpg
-2848,3,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0029.jpg
-2848,3,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0071.jpg
-2849,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0038.jpg
-2849,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0072.jpg
-2851,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0032.jpg
-2851,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0074.jpg
-2852,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0033.jpg
-2852,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0075.jpg
-2853,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0034.jpg
-2853,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0076.jpg
-2854,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0036.jpg
-2854,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0078.jpg
-2855,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0037.jpg
-2855,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0079.jpg
-2856,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0030.jpg
-2856,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0080.jpg
-2857,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0039.jpg
-2857,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0082.jpg
-2858,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0043.jpg
-2858,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0083.jpg
-2859,4,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0031.jpg
-2859,4,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0042.jpg
-2859,4,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0081.jpg
-2859,4,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0084.jpg
-2861,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0044.jpg
-2861,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0086.jpg
-2862,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0040.jpg
-2862,2,1,7,Anthracnose Leaf Spot,True,/Users/brian/Desktop/2027_Fall/GenAI/JHB training dataset/7. Anthracnose Leaf Spot /image_0087.jpg
+494,2,1,11,Leaf Scorch,False,JHB training dataset/11. Leaf Scorch/kgl_Strawberry___Leaf_scorch_Strawberry___Leaf_scorch_1056.jpg
+494,2,1,11,Leaf Scorch,False,JHB training dataset/11. Leaf Scorch/kgl_Strawberry___Leaf_scorch_Strawberry___Leaf_scorch_127.jpg
+939,2,1,11,Leaf Scorch,False,JHB training dataset/11. Leaf Scorch/kgl_Strawberry___Leaf_scorch_Strawberry___Leaf_scorch_443.jpg
+939,2,1,11,Leaf Scorch,False,JHB training dataset/11. Leaf Scorch/kgl_Strawberry___Leaf_scorch_Strawberry___Leaf_scorch_529.jpg
+1571,2,1,12,Neopestalotiopsis Leaf Spot,False,JHB training dataset/12. Neopestalotiopsis Leaf Spot/First Report on the Emergence of Neopestalotiopsis rosae as a Severe Economic Threat to Strawberry Production in Germany[v1] _ Preprints.org.png
+1571,2,1,12,Neopestalotiopsis Leaf Spot,False,JHB training dataset/12. Neopestalotiopsis Leaf Spot/PMC11767745_microorganisms-13-00006-g004.jpg
+1573,2,1,12,Neopestalotiopsis Leaf Spot,True,"JHB training dataset/12. Neopestalotiopsis Leaf Spot/Identification of Neopestalotiopsis spp. from Strawberry Leaf, Fruit, and Crown Tissues in North Carolina - PMC.jpg"
+1573,2,1,12,Neopestalotiopsis Leaf Spot,True,JHB training dataset/12. Neopestalotiopsis Leaf Spot/PMC12844628_pathogens-15-00010-g005.jpg
+1661,2,2,13,Rhizopus Fruit Rot,True,JHB training dataset/13. Rhizopus Fruit Rot/Common Strawberry Diseases _ Crop Science US.jpg
+1661,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Common Strawberry Diseases _ Crop Science US-001.jpg
+1662,2,2,13,Rhizopus Fruit Rot,True,JHB training dataset/13. Rhizopus Fruit Rot/Common Strawberry Diseases _ Crop Science US-001.jpg
+1662,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Common Strawberry Diseases _ Crop Science US.jpg
+1692,2,2,1,Fusarium Wilt,True,JHB training dataset/1. Fusarium Wilt/Fusarium Wilt _ Strawberry _ Agriculture_ Pest Management Guidelines _ UC Statewide IPM Program (UC IPM).jpg
+1692,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Fusarium Wilt _ Strawberry _ Agriculture_ Pest Management Guidelines _ UC Statewide IPM Program (UC IPM).jpg
+1709,2,2,13,Rhizopus Fruit Rot,True,JHB training dataset/13. Rhizopus Fruit Rot/Non-Botrytis Fruit Rots of Strawberry_ Under-estimated and Under-Researched_ - Progressive Crop Consultant-002.jpg
+1709,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Non-Botrytis Fruit Rots of Strawberry_ Under-estimated and Under-Researched_ - Progressive Crop Consultant.jpg
+1714,2,2,12,Neopestalotiopsis Leaf Spot,True,"JHB training dataset/12. Neopestalotiopsis Leaf Spot/Outbreak of leaf spot, fruit rot in Florida strawberry caused by Neopestalotiopsis - Fruit Growers News.jpg"
+1714,2,2,14,Foliar nematode,True,"JHB training dataset/14. Foliar nematode/Outbreak of leaf spot, fruit rot in Florida strawberry caused by Neopestalotiopsis - Fruit Growers News.jpg"
+1727,2,2,12,Neopestalotiopsis Leaf Spot,True,JHB training dataset/12. Neopestalotiopsis Leaf Spot/Strawberry Disease Identification.jpg
+1727,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Strawberry Disease Identification-001.jpg
+1754,2,2,12,Neopestalotiopsis Leaf Spot,True,JHB training dataset/12. Neopestalotiopsis Leaf Spot/Update on Neopestalotiopsis sp. in Ontario field strawberries – ONfruit.jpg
+1754,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Update on Neopestalotiopsis sp. in Ontario field strawberries – ONfruit-001.jpg
+1756,2,2,12,Neopestalotiopsis Leaf Spot,True,JHB training dataset/12. Neopestalotiopsis Leaf Spot/Update on Neopestalotiopsis sp. in Ontario field strawberries – ONfruit-001.jpg
+1756,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Update on Neopestalotiopsis sp. in Ontario field strawberries – ONfruit-003.jpg
+1757,2,2,12,Neopestalotiopsis Leaf Spot,True,JHB training dataset/12. Neopestalotiopsis Leaf Spot/Update on Neopestalotiopsis sp. in Ontario field strawberries – ONfruit-002.jpg
+1757,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Update on Neopestalotiopsis sp. in Ontario field strawberries – ONfruit.jpg
+1780,3,3,12,Neopestalotiopsis Leaf Spot,True,JHB training dataset/12. Neopestalotiopsis Leaf Spot/Field Trials for the control of fungal diseases and nematodes in Strawberries – AgriThority®.jpg
+1780,3,3,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Field Trials for the control of fungal diseases and nematodes in Strawberries – AgriThority®.jpg
+1780,3,3,15,Northern Root-Knot Nematode,True,JHB training dataset/15. Northern Root-Knot Nematode/Field Trials for the control of fungal diseases and nematodes in Strawberries – AgriThority®.jpg
+1797,2,2,14,Foliar nematode,True,"JHB training dataset/14. Foliar nematode/Nematode on strawberries - how to fight, effective methods of control and prevention of the disease, Digest Imex Agro-001.jpg"
+1797,2,2,15,Northern Root-Knot Nematode,True,"JHB training dataset/15. Northern Root-Knot Nematode/Nematode on strawberries - how to fight, effective methods of control and prevention of the disease, Digest Imex Agro.jpg"
+1803,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Nematodes.jpg
+1803,2,2,15,Northern Root-Knot Nematode,True,JHB training dataset/15. Northern Root-Knot Nematode/Nematodes.jpg
+1807,2,2,14,Foliar nematode,True,"JHB training dataset/14. Foliar nematode/Pests, Diseases, Nematodes, and Weeds Management on Strawberries _ IntechOpen.png"
+1807,2,2,15,Northern Root-Knot Nematode,True,"JHB training dataset/15. Northern Root-Knot Nematode/Pests, Diseases, Nematodes, and Weeds Management on Strawberries _ IntechOpen.png"
+1809,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Plant-parasitic nematodes of strawberry in Egypt_ a review _ Bulletin of the National Research Centre _ Springer Nature Link.png
+1809,2,2,15,Northern Root-Knot Nematode,True,JHB training dataset/15. Northern Root-Knot Nematode/Plant-parasitic nematodes of strawberry in Egypt_ a review _ Bulletin of the National Research Centre _ Springer Nature Link.png
+1813,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Recognizing and Managing Nematode Damage in Strawberries _ Southern Region Small Fruit Consortium-001.jpg
+1813,2,2,15,Northern Root-Knot Nematode,True,JHB training dataset/15. Northern Root-Knot Nematode/Recognizing and Managing Nematode Damage in Strawberries _ Southern Region Small Fruit Consortium (1).jpg
+1815,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Recognizing and Managing Nematode Damage in Strawberries _ Southern Region Small Fruit Consortium.jpg
+1815,2,2,15,Northern Root-Knot Nematode,True,JHB training dataset/15. Northern Root-Knot Nematode/Recognizing and Managing Nematode Damage in Strawberries _ Southern Region Small Fruit Consortium.jpg
+1823,2,2,14,Foliar nematode,False,JHB training dataset/14. Foliar nematode/Root-Knot Nematode in Strawberry _ Strawberry Center Blog.jpg
+1823,2,2,15,Northern Root-Knot Nematode,False,JHB training dataset/15. Northern Root-Knot Nematode/Root-Knot Nematode in Strawberry _ Strawberry Center Blog (1).jpg
+1824,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Root-Knot Nematode in Strawberry _ Strawberry Center Blog-002.jpg
+1824,2,2,15,Northern Root-Knot Nematode,True,JHB training dataset/15. Northern Root-Knot Nematode/Root-Knot Nematode in Strawberry _ Strawberry Center Blog (3).jpg
+1825,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Root-Knot Nematode in Strawberry _ Strawberry Center Blog-003.jpg
+1825,2,2,15,Northern Root-Knot Nematode,True,JHB training dataset/15. Northern Root-Knot Nematode/Root-Knot Nematode in Strawberry _ Strawberry Center Blog (4).jpg
+1842,2,2,14,Foliar nematode,True,JHB training dataset/14. Foliar nematode/Spotlight_ Strawberry Season is Coming and so Are Nematodes - Specialty Crop Grower.jpg
+1842,2,2,15,Northern Root-Knot Nematode,True,JHB training dataset/15. Northern Root-Knot Nematode/Spotlight_ Strawberry Season is Coming and so Are Nematodes - Specialty Crop Grower.jpg
+1878,2,2,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold123.jpg
+1878,2,2,14,Foliar nematode,False,JHB training dataset/14. Foliar nematode/List of strawberry diseases - Wikipedia.jpg
+1880,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold102.jpg
+1880,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold126.jpg
+2065,2,2,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold34.jpg
+2065,2,2,14,Foliar nematode,False,JHB training dataset/14. Foliar nematode/How To Prepare For Strawberry Pathogens - Growing Produce.jpg
+2296,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold106.jpg
+2296,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold73.jpg
+2298,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold125.jpg
+2298,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold75.jpg
+2308,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold42.jpg
+2308,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold84.jpg
+2310,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold149.jpg
+2310,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold86.jpg
+2312,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold53.jpg
+2312,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold88.jpg
+2324,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold55.jpg
+2324,2,1,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold99.jpg
+2388,2,1,4,Powdery mildew,False,JHB training dataset/4. Powdery mildew/powdery_mildew_fruit2.jpg
+2388,2,1,4,Powdery mildew,False,JHB training dataset/4. Powdery mildew/powdery_mildew_fruit74.jpg
+2729,2,2,2,Macrophomina Crown Rot,True,JHB training dataset/2. Macrophomina Crown Rot/Crown and Root Issues in Strawberries.jpg
+2729,2,2,5,Phytophthora Crown rot,True,JHB training dataset/5. Phytophthora Crown rot/Crown and Root Issues in Strawberries-001.jpg
+2731,2,2,2,Macrophomina Crown Rot,True,JHB training dataset/2. Macrophomina Crown Rot/Crown and Root Issues in Strawberries-001.jpg
+2731,2,2,5,Phytophthora Crown rot,True,JHB training dataset/5. Phytophthora Crown rot/Crown and Root Issues in Strawberries.jpg
+2739,2,2,2,Macrophomina Crown Rot,False,JHB training dataset/2. Macrophomina Crown Rot/Magnetic resonance imaging shows how infection progresses in strawberry crown _ University of Eastern Finland.jpg
+2739,2,2,5,Phytophthora Crown rot,False,JHB training dataset/5. Phytophthora Crown rot/Magnetic resonance imaging shows how infection progresses in strawberry crown _ University of Eastern Finland.jpg
+2740,2,2,2,Macrophomina Crown Rot,False,JHB training dataset/2. Macrophomina Crown Rot/Magnetic resonance imaging shows how infection progresses in strawberry crown.jpg
+2740,2,2,5,Phytophthora Crown rot,False,JHB training dataset/5. Phytophthora Crown rot/Magnetic resonance imaging shows how infection progresses in strawberry crown.jpg
+2745,2,2,5,Phytophthora Crown rot,False,"JHB training dataset/5. Phytophthora Crown rot/Neopestalotiopsis Leaf, Fruit, and Crown Rot of Strawberry _ NC State Extension Publications.jpg"
+2745,2,2,12,Neopestalotiopsis Leaf Spot,False,"JHB training dataset/12. Neopestalotiopsis Leaf Spot/Neopestalotiopsis Crown, Leaf and Fruit Disease on Strawberry _ Southern Region Small Fruit Consortium-001.jpg"
+2753,2,1,5,Phytophthora Crown rot,False,"JHB training dataset/5. Phytophthora Crown rot/Mature strawberry with leather rot, caused by Phytophthora cactorum,... _ Download Scientific Diagram.jpg"
+2753,2,1,5,Phytophthora Crown rot,False,"JHB training dataset/5. Phytophthora Crown rot/Phytophthora cactorum - Alchetron, The Free Social Encyclopedia.jpg"
+2760,2,2,2,Macrophomina Crown Rot,False,"JHB training dataset/2. Macrophomina Crown Rot/Root and crown rot of strawberry - Prevention, Control and Damage-001.jpg"
+2760,2,2,5,Phytophthora Crown rot,False,"JHB training dataset/5. Phytophthora Crown rot/Root and crown rot of strawberry - Prevention, Control and Damage-002.jpg"
+2761,2,2,2,Macrophomina Crown Rot,True,"JHB training dataset/2. Macrophomina Crown Rot/Root and crown rot of strawberry - Prevention, Control and Damage-002.jpg"
+2761,2,2,5,Phytophthora Crown rot,True,"JHB training dataset/5. Phytophthora Crown rot/Root and crown rot of strawberry - Prevention, Control and Damage-003.jpg"
+2763,2,1,5,Phytophthora Crown rot,True,JHB training dataset/5. Phytophthora Crown rot/STRAWBERRY CROWN ROT Phytophthora cactorum SECTION THROUGH INFECTED PLANT SHOWING EXTENSIVE ROT Stock Photo - Alamy (2).jpg
+2763,2,1,5,Phytophthora Crown rot,True,JHB training dataset/5. Phytophthora Crown rot/STRAWBERRY CROWN ROT Phytophthora cactorum SECTION THROUGH INFECTED PLANT SHOWING EXTENSIVE ROT Stock Photo - Alamy-001.jpg
+2767,2,2,2,Macrophomina Crown Rot,True,JHB training dataset/2. Macrophomina Crown Rot/Strawberry (Fragaria spp.)-Crown Rot _ Pacific Northwest Pest Management Handbooks-001.jpg
+2767,2,2,5,Phytophthora Crown rot,True,JHB training dataset/5. Phytophthora Crown rot/Strawberry (Fragaria spp.)-Crown Rot _ Pacific Northwest Pest Management Handbooks-001.jpg
+2783,2,2,3,Gray Mold,False,JHB training dataset/3. Gray Mold/gray_mold59.jpg
+2783,2,2,5,Phytophthora Crown rot,False,JHB training dataset/5. Phytophthora Crown rot/台灣農業百科_ 草莓病害-果腐病亦稱果疫病(Fruit rot or leather rot of strawberry)-002.jpg
+2793,2,2,1,Fusarium Wilt,False,JHB training dataset/1. Fusarium Wilt/Strawberry wilt hi-res stock photography and images - Alamy.jpg
+2793,2,2,6,Verticillium Wilt,False,JHB training dataset/6. Verticillium Wilt/image_0044.jpg
+2794,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0002.jpg
+2794,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0047.jpg
+2795,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0004.jpg
+2795,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0048.jpg
+2796,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0006.jpg
+2796,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0049.jpg
+2797,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0011.jpg
+2797,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0052.jpg
+2798,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0019.jpg
+2798,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0056.jpg
+2799,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0001.jpg
+2799,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0058.jpg
+2800,3,2,5,Phytophthora Crown rot,False,JHB training dataset/5. Phytophthora Crown rot/Strawberry Soilborne Fungal Diseases_ Asymptomatic but Infected.jpg
+2800,3,2,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0003.jpg
+2800,3,2,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0059.jpg
+2801,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0005.jpg
+2801,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0060.jpg
+2802,3,2,1,Fusarium Wilt,False,JHB training dataset/1. Fusarium Wilt/Strawberry (Fragaria spp.)-Verticillium Wilt _ Pacific Northwest Pest Management Handbooks-001.jpg
+2802,3,2,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0012.jpg
+2802,3,2,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0063.jpg
+2803,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0014.jpg
+2803,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0064.jpg
+2804,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0020.jpg
+2804,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0068.jpg
+2805,4,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0023.jpg
+2805,4,1,6,Verticillium Wilt,False,JHB training dataset/6. Verticillium Wilt/image_0030.jpg
+2805,4,1,6,Verticillium Wilt,False,JHB training dataset/6. Verticillium Wilt/image_0069.jpg
+2805,4,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0079.jpg
+2806,3,1,6,Verticillium Wilt,False,JHB training dataset/6. Verticillium Wilt/image_0010.jpg
+2806,3,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0045.jpg
+2806,3,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0072.jpg
+2807,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0033.jpg
+2807,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0073.jpg
+2808,4,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0009.jpg
+2808,4,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0035.jpg
+2808,4,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0062.jpg
+2808,4,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0074.jpg
+2809,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0036.jpg
+2809,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0075.jpg
+2810,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0031.jpg
+2810,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0076.jpg
+2811,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0037.jpg
+2811,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0077.jpg
+2812,4,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0026.jpg
+2812,4,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0039.jpg
+2812,4,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0071.jpg
+2812,4,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0078.jpg
+2814,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0038.jpg
+2814,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0081.jpg
+2815,4,2,1,Fusarium Wilt,False,JHB training dataset/1. Fusarium Wilt/Strawberry (Fragaria spp.)-Verticillium Wilt _ Pacific Northwest Pest Management Handbooks.jpg
+2815,4,2,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0040(1).jpg
+2815,4,2,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0040.jpg
+2815,4,2,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0082.jpg
+2816,5,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0007.jpg
+2816,5,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0025.jpg
+2816,5,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0061.jpg
+2816,5,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0070.jpg
+2816,5,1,6,Verticillium Wilt,False,JHB training dataset/6. Verticillium Wilt/image_0083.jpg
+2817,3,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0008.jpg
+2817,3,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0050.jpg
+2817,3,1,6,Verticillium Wilt,False,JHB training dataset/6. Verticillium Wilt/image_0084.jpg
+2818,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0046.jpg
+2818,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0085.jpg
+2819,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0041.jpg
+2819,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0086.jpg
+2820,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0029.jpg
+2820,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0087.jpg
+2822,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0034.jpg
+2822,2,1,6,Verticillium Wilt,True,JHB training dataset/6. Verticillium Wilt/image_0091.jpg
+2830,3,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0035.jpg
+2830,3,1,7,Anthracnose Leaf Spot,False,JHB training dataset/7. Anthracnose Leaf Spot /image_0041.jpg
+2830,3,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0069.jpg
+2831,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0022.jpg
+2831,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0046.jpg
+2832,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0003.jpg
+2832,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0047.jpg
+2833,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0002.jpg
+2833,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0048.jpg
+2834,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0006.jpg
+2834,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0050.jpg
+2835,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0007.jpg
+2835,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0051.jpg
+2836,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0010.jpg
+2836,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0053.jpg
+2837,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0009.jpg
+2837,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0054.jpg
+2838,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0011.jpg
+2838,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0055.jpg
+2839,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0015.jpg
+2839,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0059.jpg
+2840,4,3,2,Macrophomina Crown Rot,False,JHB training dataset/2. Macrophomina Crown Rot/Crown rot disease detected in Louisiana strawberries.jpg
+2840,4,3,5,Phytophthora Crown rot,False,JHB training dataset/5. Phytophthora Crown rot/Crown rot found in commercial field _ News _ hammondstar.com.jpg
+2840,4,3,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0016.jpg
+2840,4,3,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0060.jpg
+2841,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0005.jpg
+2841,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0061.jpg
+2842,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0019.jpg
+2842,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0064.jpg
+2843,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0023.jpg
+2843,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0065.jpg
+2844,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0024.jpg
+2844,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0066.jpg
+2845,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0025.jpg
+2845,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0067.jpg
+2846,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0026.jpg
+2846,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0068.jpg
+2847,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0028.jpg
+2847,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0070.jpg
+2848,3,1,7,Anthracnose Leaf Spot,False,JHB training dataset/7. Anthracnose Leaf Spot /image_0014.jpg
+2848,3,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0029.jpg
+2848,3,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0071.jpg
+2849,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0038.jpg
+2849,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0072.jpg
+2851,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0032.jpg
+2851,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0074.jpg
+2852,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0033.jpg
+2852,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0075.jpg
+2853,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0034.jpg
+2853,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0076.jpg
+2854,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0036.jpg
+2854,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0078.jpg
+2855,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0037.jpg
+2855,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0079.jpg
+2856,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0030.jpg
+2856,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0080.jpg
+2857,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0039.jpg
+2857,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0082.jpg
+2858,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0043.jpg
+2858,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0083.jpg
+2859,4,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0031.jpg
+2859,4,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0042.jpg
+2859,4,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0081.jpg
+2859,4,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0084.jpg
+2861,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0044.jpg
+2861,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0086.jpg
+2862,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0040.jpg
+2862,2,1,7,Anthracnose Leaf Spot,True,JHB training dataset/7. Anthracnose Leaf Spot /image_0087.jpg

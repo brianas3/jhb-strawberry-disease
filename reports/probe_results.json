@@ -1,0 +1,893 @@
+{
+ "results": {
+  "with_conflicts": {
+   "variant": "with_conflicts",
+   "C": 0.003,
+   "T": 0.7118287493096785,
+   "acc": 0.8389261744966443,
+   "macroF1": 0.6031913876946066,
+   "val_acc": 0.8691796008869179,
+   "val_macroF1": 0.647267036222133,
+   "ece_test_before": 0.08943864870822572,
+   "ece_test_after": 0.014811229977755988,
+   "tta_macroF1": 0.6154556214474245,
+   "tta_acc": 0.843400447427293,
+   "macroF1_CI": [
+    0.5071998245058034,
+    0.6750520305000282
+   ],
+   "per_class": {
+    "1": {
+     "name": "Fusarium Wilt",
+     "precision": 0.25,
+     "recall": 0.75,
+     "f1": 0.375,
+     "support": 4
+    },
+    "2": {
+     "name": "Macrophomina Crown Rot",
+     "precision": 1.0,
+     "recall": 0.5,
+     "f1": 0.6666666666666666,
+     "support": 2
+    },
+    "3": {
+     "name": "Gray Mold",
+     "precision": 0.9,
+     "recall": 0.8873239436619719,
+     "f1": 0.8936170212765957,
+     "support": 71
+    },
+    "4": {
+     "name": "Powdery mildew",
+     "precision": 0.9642857142857143,
+     "recall": 0.9,
+     "f1": 0.9310344827586207,
+     "support": 60
+    },
+    "5": {
+     "name": "Phytophthora Crown rot",
+     "precision": 0.35714285714285715,
+     "recall": 0.5,
+     "f1": 0.4166666666666667,
+     "support": 10
+    },
+    "6": {
+     "name": "Verticillium Wilt",
+     "precision": 0.25,
+     "recall": 0.09090909090909091,
+     "f1": 0.13333333333333333,
+     "support": 11
+    },
+    "7": {
+     "name": "Anthracnose Leaf Spot",
+     "precision": 0.4444444444444444,
+     "recall": 0.36363636363636365,
+     "f1": 0.4,
+     "support": 11
+    },
+    "11": {
+     "name": "Leaf Scorch",
+     "precision": 0.9811320754716981,
+     "recall": 0.9369369369369369,
+     "f1": 0.9585253456221198,
+     "support": 222
+    },
+    "12": {
+     "name": "Neopestalotiopsis Leaf Spot",
+     "precision": 0.4444444444444444,
+     "recall": 0.5333333333333333,
+     "f1": 0.48484848484848486,
+     "support": 15
+    },
+    "13": {
+     "name": "Rhizopus Fruit Rot",
+     "precision": 0.4375,
+     "recall": 0.7777777777777778,
+     "f1": 0.56,
+     "support": 9
+    },
+    "14": {
+     "name": "Foliar nematode",
+     "precision": 0.391304347826087,
+     "recall": 0.45,
+     "f1": 0.4186046511627907,
+     "support": 20
+    },
+    "15": {
+     "name": "Northern Root-Knot Nematode",
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "support": 12
+    }
+   },
+   "cm": [
+    [
+     3,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     1,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     1,
+     0,
+     63,
+     0,
+     2,
+     0,
+     0,
+     0,
+     0,
+     5,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     5,
+     54,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     1,
+     0,
+     1,
+     0,
+     5,
+     0,
+     1,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    [
+     5,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     2,
+     0,
+     3,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     4,
+     0,
+     4,
+     0,
+     3,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     3,
+     1,
+     208,
+     1,
+     0,
+     9,
+     0
+    ],
+    [
+     2,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0,
+     1,
+     8,
+     0,
+     2,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     1,
+     7,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     1,
+     2,
+     0,
+     0,
+     2,
+     3,
+     2,
+     1,
+     9,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     12
+    ]
+   ],
+   "abstain_95": {
+    "tau": 0.6399999999999999,
+    "margin": 0.0,
+    "val_coverage": 0.8004434589800443,
+    "val_sel_acc": 0.9501385041551247,
+    "target": 0.95,
+    "test_coverage": 0.8008948545861297,
+    "test_sel_acc": 0.9357541899441341,
+    "test_n_answered": 358,
+    "per_class_abstain": {
+     "1": {
+      "name": "Fusarium Wilt",
+      "n": 4,
+      "abstained": 1
+     },
+     "2": {
+      "name": "Macrophomina Crown Rot",
+      "n": 2,
+      "abstained": 1
+     },
+     "3": {
+      "name": "Gray Mold",
+      "n": 71,
+      "abstained": 9
+     },
+     "4": {
+      "name": "Powdery mildew",
+      "n": 60,
+      "abstained": 7
+     },
+     "5": {
+      "name": "Phytophthora Crown rot",
+      "n": 10,
+      "abstained": 7
+     },
+     "6": {
+      "name": "Verticillium Wilt",
+      "n": 11,
+      "abstained": 9
+     },
+     "7": {
+      "name": "Anthracnose Leaf Spot",
+      "n": 11,
+      "abstained": 8
+     },
+     "11": {
+      "name": "Leaf Scorch",
+      "n": 222,
+      "abstained": 26
+     },
+     "12": {
+      "name": "Neopestalotiopsis Leaf Spot",
+      "n": 15,
+      "abstained": 5
+     },
+     "13": {
+      "name": "Rhizopus Fruit Rot",
+      "n": 9,
+      "abstained": 4
+     },
+     "14": {
+      "name": "Foliar nematode",
+      "n": 20,
+      "abstained": 10
+     },
+     "15": {
+      "name": "Northern Root-Knot Nematode",
+      "n": 12,
+      "abstained": 2
+     }
+    },
+    "root_crown_abstain_frac": 0.5084745762711864,
+    "root_crown_n": 59,
+    "root_crown_sel_acc": 0.7931034482758621,
+    "nonroot_abstain_frac": 0.15206185567010308
+   },
+   "abstain_90": {
+    "tau": 0.41,
+    "margin": 0.0,
+    "val_coverage": 0.9379157427937915,
+    "val_sel_acc": 0.900709219858156,
+    "target": 0.9,
+    "test_coverage": 0.930648769574944,
+    "test_sel_acc": 0.8774038461538461,
+    "test_n_answered": 416,
+    "per_class_abstain": {
+     "1": {
+      "name": "Fusarium Wilt",
+      "n": 4,
+      "abstained": 0
+     },
+     "2": {
+      "name": "Macrophomina Crown Rot",
+      "n": 2,
+      "abstained": 0
+     },
+     "3": {
+      "name": "Gray Mold",
+      "n": 71,
+      "abstained": 4
+     },
+     "4": {
+      "name": "Powdery mildew",
+      "n": 60,
+      "abstained": 1
+     },
+     "5": {
+      "name": "Phytophthora Crown rot",
+      "n": 10,
+      "abstained": 1
+     },
+     "6": {
+      "name": "Verticillium Wilt",
+      "n": 11,
+      "abstained": 6
+     },
+     "7": {
+      "name": "Anthracnose Leaf Spot",
+      "n": 11,
+      "abstained": 4
+     },
+     "11": {
+      "name": "Leaf Scorch",
+      "n": 222,
+      "abstained": 7
+     },
+     "12": {
+      "name": "Neopestalotiopsis Leaf Spot",
+      "n": 15,
+      "abstained": 1
+     },
+     "13": {
+      "name": "Rhizopus Fruit Rot",
+      "n": 9,
+      "abstained": 2
+     },
+     "14": {
+      "name": "Foliar nematode",
+      "n": 20,
+      "abstained": 3
+     },
+     "15": {
+      "name": "Northern Root-Knot Nematode",
+      "n": 12,
+      "abstained": 2
+     }
+    },
+    "root_crown_abstain_frac": 0.2033898305084746,
+    "root_crown_n": 59,
+    "root_crown_sel_acc": 0.5957446808510638,
+    "nonroot_abstain_frac": 0.04896907216494845
+   }
+  },
+  "drop_conflicts": {
+   "variant": "drop_conflicts",
+   "C": 0.01,
+   "T": 0.9441400717655263,
+   "acc": 0.8791946308724832,
+   "macroF1": 0.6767082602104595,
+   "val_acc": 0.8758314855875832,
+   "val_macroF1": 0.6659770417606387,
+   "ece_test_before": 0.0575466952893591,
+   "ece_test_after": 0.04199697378726187,
+   "tta_macroF1": 0.6804147825112296,
+   "tta_acc": 0.8859060402684564,
+   "macroF1_CI": [
+    0.5782674022405461,
+    0.7482182683682531
+   ],
+   "per_class": {
+    "1": {
+     "name": "Fusarium Wilt",
+     "precision": 0.42857142857142855,
+     "recall": 0.75,
+     "f1": 0.5454545454545454,
+     "support": 4
+    },
+    "2": {
+     "name": "Macrophomina Crown Rot",
+     "precision": 1.0,
+     "recall": 0.5,
+     "f1": 0.6666666666666666,
+     "support": 2
+    },
+    "3": {
+     "name": "Gray Mold",
+     "precision": 0.9305555555555556,
+     "recall": 0.9436619718309859,
+     "f1": 0.9370629370629371,
+     "support": 71
+    },
+    "4": {
+     "name": "Powdery mildew",
+     "precision": 0.9655172413793104,
+     "recall": 0.9333333333333333,
+     "f1": 0.9491525423728814,
+     "support": 60
+    },
+    "5": {
+     "name": "Phytophthora Crown rot",
+     "precision": 0.4,
+     "recall": 0.6,
+     "f1": 0.48,
+     "support": 10
+    },
+    "6": {
+     "name": "Verticillium Wilt",
+     "precision": 0.3333333333333333,
+     "recall": 0.09090909090909091,
+     "f1": 0.14285714285714285,
+     "support": 11
+    },
+    "7": {
+     "name": "Anthracnose Leaf Spot",
+     "precision": 0.8,
+     "recall": 0.7272727272727273,
+     "f1": 0.7619047619047619,
+     "support": 11
+    },
+    "11": {
+     "name": "Leaf Scorch",
+     "precision": 0.9815668202764977,
+     "recall": 0.9594594594594594,
+     "f1": 0.9703872437357631,
+     "support": 222
+    },
+    "12": {
+     "name": "Neopestalotiopsis Leaf Spot",
+     "precision": 0.5294117647058824,
+     "recall": 0.6,
+     "f1": 0.5625,
+     "support": 15
+    },
+    "13": {
+     "name": "Rhizopus Fruit Rot",
+     "precision": 0.5384615384615384,
+     "recall": 0.7777777777777778,
+     "f1": 0.6363636363636364,
+     "support": 9
+    },
+    "14": {
+     "name": "Foliar nematode",
+     "precision": 0.4782608695652174,
+     "recall": 0.55,
+     "f1": 0.5116279069767442,
+     "support": 20
+    },
+    "15": {
+     "name": "Northern Root-Knot Nematode",
+     "precision": 1.0,
+     "recall": 0.9166666666666666,
+     "f1": 0.9565217391304348,
+     "support": 12
+    }
+   },
+   "cm": [
+    [
+     3,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     1,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     67,
+     0,
+     2,
+     0,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     3,
+     56,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     1,
+     0,
+     6,
+     0,
+     0,
+     0,
+     1,
+     2,
+     0,
+     0
+    ],
+    [
+     3,
+     0,
+     0,
+     0,
+     2,
+     1,
+     0,
+     0,
+     2,
+     0,
+     3,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     2,
+     0,
+     8,
+     0,
+     1,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     213,
+     1,
+     0,
+     7,
+     0
+    ],
+    [
+     1,
+     0,
+     0,
+     0,
+     2,
+     0,
+     0,
+     1,
+     9,
+     0,
+     2,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     1,
+     7,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     1,
+     2,
+     0,
+     0,
+     1,
+     3,
+     1,
+     1,
+     11,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     11
+    ]
+   ],
+   "abstain_95": {
+    "tau": 0.74,
+    "margin": 0.6,
+    "val_coverage": 0.7583148558758315,
+    "val_sel_acc": 0.9532163742690059,
+    "target": 0.95,
+    "test_coverage": 0.7494407158836689,
+    "test_sel_acc": 0.9522388059701492,
+    "test_n_answered": 335,
+    "per_class_abstain": {
+     "1": {
+      "name": "Fusarium Wilt",
+      "n": 4,
+      "abstained": 2
+     },
+     "2": {
+      "name": "Macrophomina Crown Rot",
+      "n": 2,
+      "abstained": 1
+     },
+     "3": {
+      "name": "Gray Mold",
+      "n": 71,
+      "abstained": 18
+     },
+     "4": {
+      "name": "Powdery mildew",
+      "n": 60,
+      "abstained": 6
+     },
+     "5": {
+      "name": "Phytophthora Crown rot",
+      "n": 10,
+      "abstained": 8
+     },
+     "6": {
+      "name": "Verticillium Wilt",
+      "n": 11,
+      "abstained": 9
+     },
+     "7": {
+      "name": "Anthracnose Leaf Spot",
+      "n": 11,
+      "abstained": 8
+     },
+     "11": {
+      "name": "Leaf Scorch",
+      "n": 222,
+      "abstained": 29
+     },
+     "12": {
+      "name": "Neopestalotiopsis Leaf Spot",
+      "n": 15,
+      "abstained": 9
+     },
+     "13": {
+      "name": "Rhizopus Fruit Rot",
+      "n": 9,
+      "abstained": 5
+     },
+     "14": {
+      "name": "Foliar nematode",
+      "n": 20,
+      "abstained": 15
+     },
+     "15": {
+      "name": "Northern Root-Knot Nematode",
+      "n": 12,
+      "abstained": 2
+     }
+    },
+    "root_crown_abstain_frac": 0.6271186440677966,
+    "root_crown_n": 59,
+    "root_crown_sel_acc": 0.7727272727272727,
+    "nonroot_abstain_frac": 0.19329896907216496
+   },
+   "abstain_90": {
+    "tau": 0.45999999999999996,
+    "margin": 0.2,
+    "val_coverage": 0.9246119733924612,
+    "val_sel_acc": 0.9016786570743405,
+    "target": 0.9,
+    "test_coverage": 0.8993288590604027,
+    "test_sel_acc": 0.9203980099502488,
+    "test_n_answered": 402,
+    "per_class_abstain": {
+     "1": {
+      "name": "Fusarium Wilt",
+      "n": 4,
+      "abstained": 1
+     },
+     "2": {
+      "name": "Macrophomina Crown Rot",
+      "n": 2,
+      "abstained": 1
+     },
+     "3": {
+      "name": "Gray Mold",
+      "n": 71,
+      "abstained": 4
+     },
+     "4": {
+      "name": "Powdery mildew",
+      "n": 60,
+      "abstained": 1
+     },
+     "5": {
+      "name": "Phytophthora Crown rot",
+      "n": 10,
+      "abstained": 2
+     },
+     "6": {
+      "name": "Verticillium Wilt",
+      "n": 11,
+      "abstained": 7
+     },
+     "7": {
+      "name": "Anthracnose Leaf Spot",
+      "n": 11,
+      "abstained": 6
+     },
+     "11": {
+      "name": "Leaf Scorch",
+      "n": 222,
+      "abstained": 9
+     },
+     "12": {
+      "name": "Neopestalotiopsis Leaf Spot",
+      "n": 15,
+      "abstained": 3
+     },
+     "13": {
+      "name": "Rhizopus Fruit Rot",
+      "n": 9,
+      "abstained": 3
+     },
+     "14": {
+      "name": "Foliar nematode",
+      "n": 20,
+      "abstained": 6
+     },
+     "15": {
+      "name": "Northern Root-Knot Nematode",
+      "n": 12,
+      "abstained": 2
+     }
+    },
+    "root_crown_abstain_frac": 0.3220338983050847,
+    "root_crown_n": 59,
+    "root_crown_sel_acc": 0.675,
+    "nonroot_abstain_frac": 0.06701030927835051
+   }
+  }
+ },
+ "grids": {
+  "with_conflicts": {
+   "C": 0.003,
+   "val_macroF1": 0.647267036222133,
+   "grid": {
+    "0.0001": 0.4753768613992555,
+    "0.0003": 0.5426904111891162,
+    "0.001": 0.5912060133487884,
+    "0.003": 0.647267036222133,
+    "0.01": 0.6419260928948071,
+    "0.03": 0.6235598297951465,
+    "0.1": 0.6176660721430584,
+    "1": 0.6073593790332337
+   }
+  },
+  "drop_conflicts": {
+   "C": 0.01,
+   "val_macroF1": 0.6659770417606387,
+   "grid": {
+    "0.0001": 0.5452996688833508,
+    "0.0003": 0.5674898204644857,
+    "0.001": 0.5913443113094623,
+    "0.003": 0.636282798395107,
+    "0.01": 0.6659770417606387,
+    "0.03": 0.6553564825552354,
+    "0.1": 0.6432139702098647,
+    "1": 0.6454651975791741
+   }
+  }
+ },
+ "main": "drop_conflicts",
+ "ctrl_metadata": {
+  "acc": 0.6129753914988815,
+  "macroF1": 0.27022870479727706
+ },
+ "ctrl_border": {
+  "acc": 0.5324384787472036,
+  "macroF1": 0.214383496985707
+ }
+}

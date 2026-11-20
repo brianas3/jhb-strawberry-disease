@@ -11,7 +11,17 @@ import joblib
 import sys; sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import *
 ensure_dirs(); check_free_space(MODELS); df = load_manifest()
-X = np.load(f"{MODELS}/feats_plain.npy").astype(np.float32); Xf = np.load(f"{MODELS}/feats_flip.npy").astype(np.float32)
+X = np.load(f"{MODELS}/feats_plain.npy").astype(np.float32)
+# Load TTA features if available
+def load_tta_feat(suffix):
+    p = f"{MODELS}/feats_{suffix}.npy"
+    if os.path.exists(p) and len(np.load(p, mmap_mode='r')) == len(df):
+        return np.load(p).astype(np.float32)
+    return None
+
+X_hflip = load_tta_feat("flip")
+X_vflip = load_tta_feat("vflip")
+X_rot90 = load_tta_feat("rot90")
 y = df.class_id.values; cls = sorted(df.class_id.unique())
 names = df.drop_duplicates("class_id").set_index("class_id").class_name.to_dict()
 tr, va, te = [(df.split == s).values for s in ("train", "val", "test")]
@@ -53,9 +63,18 @@ def ece(P, yy, nb=10):
 def evaluate(variant):
     sc, clf, C = models[variant]
     assert list(clf.classes_) == cls
-    Lv = logits(sc, clf, X[va]); T = temp_fit(Lv, y[va])
-    Lt = logits(sc, clf, X[te]); Ltf = logits(sc, clf, Xf[te])
-    Pv = softmax(Lv / T, 1); Pt = softmax(Lt / T, 1); Ptt = (softmax(Lt / T, 1) + softmax(Ltf / T, 1)) / 2
+    Lv = logits(sc, clf, X[va]); T = temp_fit(Lv, y[va]); Pv = softmax(Lv / T, 1)
+    Lt = logits(sc, clf, X[te])
+    # Multi-view TTA aggregation
+    tta_preds = [softmax(Lt / T, 1)]
+    if X_hflip is not None:
+        tta_preds.append(softmax(logits(sc, clf, X_hflip[te]) / T, 1))
+    if X_vflip is not None:
+        tta_preds.append(softmax(logits(sc, clf, X_vflip[te]) / T, 1))
+    if X_rot90 is not None:
+        tta_preds.append(softmax(logits(sc, clf, X_rot90[te]) / T, 1))
+    Ptt = np.mean(tta_preds, axis=0)
+    Pt = tta_preds[0]
     pred = np.array(cls)[Pt.argmax(1)]; yt = y[te]
     r = dict(variant=variant, C=C, T=T, acc=accuracy_score(yt, pred), macroF1=mf1(yt, pred),
              val_acc=accuracy_score(y[va], np.array(cls)[Pv.argmax(1)]), val_macroF1=mf1(y[va], np.array(cls)[Pv.argmax(1)]),

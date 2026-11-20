@@ -6,3 +6,11 @@ models/feats_*.npy
 models/mnv3_best.pt
 reports/samples/
 reports/redteam_grids/
+.venv/
+.vscode/
+JHB training dataset/
+models/mnv3_*_logits.npy
+reports/label_issues.csv
+reports/label_issues_sheet.jpg
+reports/redteam_neardup.csv
+reports/redteam_phash.npy

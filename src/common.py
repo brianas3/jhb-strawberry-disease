@@ -1,7 +1,8 @@
 """Shared portable config. Env vars: DATA_DIR (image root), MANIFEST (csv), OUT_DIR (models/ + reports/ written here)."""
 import os, shutil, numpy as np, pandas as pd
 HERE = os.path.dirname(os.path.abspath(__file__)); PROJ = os.path.dirname(HERE)
-DATA_DIR = os.path.abspath(os.environ.get("DATA_DIR", os.path.join(PROJ, "..", "JHB training dataset")))
+_def_data = os.path.join(PROJ, "JHB training dataset") if os.path.isdir(os.path.join(PROJ, "JHB training dataset")) else os.path.join(PROJ, "..", "JHB training dataset")
+DATA_DIR = os.path.abspath(os.environ.get("DATA_DIR", _def_data))
 MANIFEST = os.path.abspath(os.environ.get("MANIFEST", os.path.join(PROJ, "splits", "manifest.csv")))
 OUT_DIR = os.path.abspath(os.environ.get("OUT_DIR", PROJ))
 MODELS = os.path.join(OUT_DIR, "models"); REPORTS = os.path.join(OUT_DIR, "reports")
